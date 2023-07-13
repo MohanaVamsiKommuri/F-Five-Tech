@@ -290,7 +290,6 @@
     <h1 class="text-dark">HEALTH PLAN</h1>
   </div>
   <!-- health plan -->
-
   <div class="row text-white ">
     <div class="col-xl-6 col-md-12 col-sm-12 heal heal-lorem">
       <h2 class="ms-3 text-success mt-5"> HEAL</h2>
